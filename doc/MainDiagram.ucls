@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.11" icons="true" automaticImage="PNG" always-add-relationships="false" 
+  generalizations="false" realizations="false" associations="false" dependencies="false" nesting-relationships="false" 
+  router="FAN">  
+  <package id="1" language="java" name="pl.vrp" project="VrpSolver" file="/VrpSolver/src/pl/vrp" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="454" y="39"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="pl.vrp.algorithm" project="VrpSolver" file="/VrpSolver/src/pl/vrp/algorithm" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="383" y="107"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="pl.vrp.algorithm.GA" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/algorithm/GA" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="393" y="153"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="4" language="java" name="pl.vrp.algorithm.GA.operators" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/algorithm/GA/operators" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="428" y="354"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="5" language="java" name="pl.vrp.algorithm.GA.operators.mutation" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/algorithm/GA/operators/mutation" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="453" y="457"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="6" language="java" name="pl.vrp.algorithm.GA.operators.crossover" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/algorithm/GA/operators/crossover" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="457" y="408"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="7" language="java" name="pl.vrp.algorithm.GA.fitnessFunctions" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/algorithm/GA/fitnessFunctions" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="444" y="207"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="8" language="java" name="pl.vrp.algorithm.GA.support" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/algorithm/GA/support" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="419" y="258"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="9" language="java" name="pl.vrp.algorithm.GA.phenotype" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/algorithm/GA/phenotype" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="428" y="301"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="10" language="java" name="pl.vrp.enums" project="VrpSolver" file="/VrpSolver/src/pl/vrp/enums" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="784" y="224"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="11" language="java" name="pl.vrp.exception" project="VrpSolver" file="/VrpSolver/src/pl/vrp/exception" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="793" y="173"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="12" language="java" name="pl.vrp.executor" project="VrpSolver" file="/VrpSolver/src/pl/vrp/executor" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="83" y="103"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="13" language="java" name="pl.vrp.helper" project="VrpSolver" file="/VrpSolver/src/pl/vrp/helper" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="781" y="118"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="14" language="java" name="pl.vrp.problem" project="VrpSolver" file="/VrpSolver/src/pl/vrp/problem" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="631" y="115"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="15" language="java" name="pl.vrp.problem.mdss" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/problem/mdss" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="648" y="169"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="16" language="java" name="pl.vrp.problem.vrp" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/problem/vrp" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="642" y="224"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="17" language="java" name="pl.vrp.solution" project="VrpSolver" file="/VrpSolver/src/pl/vrp/solution" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="631" y="273"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="18" language="java" name="pl.vrp.swing.graph" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/swing/graph" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="225" y="199"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="19" language="java" name="pl.vrp.swing.frame" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/swing/frame" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="223" y="105"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="20" language="java" name="pl.vrp.swing.panel" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/swing/panel" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="223" y="151"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="21" language="java" name="pl.vrp.swing.textfield" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/swing/textfield" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="233" y="302"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="22" language="java" name="pl.vrp.swing.menu" project="VrpSolver" file="/VrpSolver/src/pl/vrp/swing/menu" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="226" y="249"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="23" language="java" name="pl.vrp.swing.listener" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/swing/listener" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="234" y="414"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="24" language="java" name="pl.vrp.swing.slider" project="VrpSolver" 
+    file="/VrpSolver/src/pl/vrp/swing/slider" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="226" y="356"/>    
+    <display autosize="true" stereotype="false" sort-features="false" accessors="true"/>  
+  </package>  
+  <classifier-display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
